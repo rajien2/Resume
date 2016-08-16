@@ -1,0 +1,13 @@
+body {
+    background-color: gray
+}
+header {
+    text-align: center;
+}
+section {
+    text-align: center;
+}
+ul
+{
+    list-style-type: none;
+}
